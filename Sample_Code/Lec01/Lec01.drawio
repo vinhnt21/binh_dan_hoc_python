@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="DMYKLtNfapXCw_oVXKLh">
+    <mxGraphModel dx="618" dy="394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#D4E1F5" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rpDD_6iOtg22FFz136jY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rpDD_6iOtg22FFz136jY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="361" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441" y="359" as="sourcePoint" />
+            <mxPoint x="441" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="359" as="sourcePoint" />
+            <mxPoint x="361" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="359" as="sourcePoint" />
+            <mxPoint x="401" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="360" as="sourcePoint" />
+            <mxPoint x="478" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="359" as="sourcePoint" />
+            <mxPoint x="519" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpDD_6iOtg22FFz136jY-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.081;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="359" as="sourcePoint" />
+            <mxPoint x="559" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
