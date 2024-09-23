@@ -1,3 +1,7 @@
-user_full_name = input("Ten eim la cai gi: ")
+nums = [1, 4,5,6,7,1,5,7,10]
+print(nums)
 
-print(user_full_name)
+# set
+nums = set(nums)
+print(nums)
+
